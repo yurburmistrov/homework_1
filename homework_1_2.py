@@ -1,4 +1,4 @@
-#Второе задание
+# Второе задание
 seconds = int(input("Введите количество секунд: \n >>>"))
 hours = seconds // 3600
 minutes = seconds // 60 % 60
